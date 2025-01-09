@@ -28,11 +28,11 @@ const Hero = () => {
             alt="title"
           />
           <div>
-            <h1 class={`${styles.heroHeadText} text-white`}>
+            <h1 className={`${styles.heroHeadText} text-white`}>
               Hi, I'm <span class="text-[#34eb80]">Rohit</span>
             </h1>
             <p class={`${styles.heroSubText} mt-2 text-white-100`}>
-              A full-stack web developer <br class="sm:block hidden" /> with
+              A Front-End web developer <br class="sm:block hidden" /> with
               experience of 2+ years in ReactJS, Javascript, NodeJS and NextJS.
             </p>
           </div>

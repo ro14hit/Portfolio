@@ -72,9 +72,9 @@ const Navbar = () => {
         </div>
       </div>
       <a
-        href="https://drive.google.com/file/d/1fnxB1reLU1WwFe0A45jBjlMez1Lmi1P6/view"
+        href="https://drive.google.com/file/d/10hAV70OkDva2sX_A-bQBSge81Dk1Pd_x/view?usp=sharing"
         target="_blank"
-        class="bg-white text-black rounded-3xl p-1 ml-2 hover:bg-red-500"
+        class="bg-white text-black rounded-3xl p-1 ml-2 hover:bg-red-500 whitespace-nowrap"
       >
         My Resume
       </a>
