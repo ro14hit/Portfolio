@@ -43,7 +43,7 @@ const BallCanvas = ({ icon }) => {
       frameloop='demand'
       dpr={[1, 2]}
       gl={{ preserveDrawingBuffer: true }}
-      className="hidden md:block"
+      className="hidden md:block w-full"
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls enableZoom={false} />
