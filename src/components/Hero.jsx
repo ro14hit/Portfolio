@@ -20,9 +20,9 @@ const Hero = () => {
           <div className="w-5 h-5 rounded-full bg-[#915eff]" />
           <div className="w-1 sm:h-80 h-40 violet-gradient" />
         </div>
-        <div class="flex items-center">
+        <div class="flex flex-col md:flex-row items-center">
           <img
-            class=" animated-border object-contain flex rounded-full sm:w-[250px] w-[125px] mr-4"
+            class=" animated-border object-contain flex rounded-full sm:w-[250px] w-[200px] mr-4"
             src={Rohit}
             id="myButton"
             alt="title"
