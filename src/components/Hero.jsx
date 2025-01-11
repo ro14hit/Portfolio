@@ -38,7 +38,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <ComputersCanvas/>
+      <ComputersCanvas />
     </section>
   );
 };

@@ -60,7 +60,7 @@ const ComputersCanvas = () => {
       dpr={[1, 2]}
       camera={{ position: [20, 3, -4], fov: 25 }}
       gl={{ preserveDrawingBuffer: true }}
-      className="scale-80"
+      className="scale-80 hidden md:block"
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls

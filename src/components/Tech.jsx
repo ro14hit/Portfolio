@@ -5,7 +5,7 @@ import { technologies } from "../constants";
 
 const Tech = () => {
   return (
-    <div className="flex flex-row flex-wrap justify-center gap-10">
+    <div className="md:flex flex-row flex-wrap justify-center gap-10 hidden">
       {technologies.map((tech) => (
         <div className="w-28 h-28 " key={tech.name}>
           <BallCanvas icon={tech.icon} />
