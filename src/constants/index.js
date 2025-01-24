@@ -150,7 +150,7 @@ const experiences = [
     ],
   },
   {
-    title: "Front End Developer",
+    title: "MERN Stack  Developer",
     company_name: "Tata Consultancy Services",
     icon: tcs,
     iconBg: "#383E56",

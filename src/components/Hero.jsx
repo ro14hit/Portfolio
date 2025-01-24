@@ -32,7 +32,7 @@ const Hero = () => {
               Hi, I'm <span class="text-[#34eb80]">Rohit</span>
             </h1>
             <p class={`${styles.heroSubText} mt-2 text-white-100`}>
-              A Front-End web developer <br class="sm:block hidden" /> with
+              A MERN Stack Developer web developer <br class="sm:block hidden" /> with
               experience of 3+ years in ReactJS, Javascript, NodeJS and NextJS.
             </p>
           </div>
