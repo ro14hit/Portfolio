@@ -72,7 +72,7 @@ const Navbar = () => {
 
         </div>
         <a
-        href="https://drive.google.com/file/d/152CXFnuF6-RA6Jy0ItFt9ZXRTMCLEuth/view?usp=sharing"
+        href="https://drive.google.com/file/d/1N0rxsis7pr_rO1f3qP5t9sLXcpSZbE-H/view?usp=sharing"
         target="_blank"
         class="bg-white text-black rounded-3xl p-1 ml-2 hover:bg-red-500 whitespace-nowrap"
       >
