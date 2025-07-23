@@ -8,5 +8,5 @@
   
   .animated-border {
     border: 15px solid red;
-    animation: colorChange 8s infinite;
+    /* animation: colorChange 8s infinite; */
   }
